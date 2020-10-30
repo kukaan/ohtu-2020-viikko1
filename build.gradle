@@ -22,3 +22,4 @@ jar {
         attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
     }
 }
+
